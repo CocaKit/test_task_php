@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"owner":"www-data","group":"www-data","guestpath":"/var/www/html","hostpath":"/home/zeus/test_task_php","disabled":false,"__vagrantfile":true}}}
